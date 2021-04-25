@@ -1,0 +1,76 @@
+ #t01 th {
+   background-color: lightblue;
+   color: white;
+ }
+ 
+ p {
+   font-family: courier;
+ }
+ 
+ h1 {
+   font-family: courier;
+ }
+ 
+ h2 {
+   font-family: courier;
+ }
+ 
+ th {
+   font-family: courier;
+ }
+ 
+ ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #333333;
+ }
+ 
+ li {
+   float: left;
+ }
+ 
+ li a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px;
+   text-decoration: none;
+ }
+ 
+ li a:hover {
+   background-color: #111111;
+ }
+ 
+ body.background-a {
+   background-image: url("Trees/background1.jpg");
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+ }
+  body.background-b {
+   background-image: url("Trees/background2.jpg");
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+ }
+ body.background-c {
+   background-image: url("Trees/background3.jpg");
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+ }
+ body.background-d {
+   background-image: url("Trees/background4.jpg");
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+ }
+ div.background {
+   text-align: center;
+   background-color: white;
+   margin-top: 40px;
+   margin-bottom: 40px;
+   margin: 0 auto;
+   max-width: 960px;
+   max-height: 3500px;
+   border: 0;
+   padding: 40px;
+ }
